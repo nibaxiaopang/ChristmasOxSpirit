@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SettingViewController: UIViewController {
+class OxSpiritSettingViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

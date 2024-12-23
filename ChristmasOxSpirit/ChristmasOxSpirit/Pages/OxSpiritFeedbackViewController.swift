@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FeedbackVC: UIViewController {
+class OxSpiritFeedbackViewController: UIViewController {
 
     //MARK: - Declare IBOutlet
     @IBOutlet weak var stackView: UIStackView!

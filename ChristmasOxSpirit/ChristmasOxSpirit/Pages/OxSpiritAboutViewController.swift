@@ -1,5 +1,5 @@
 //
-//  HomeViewController.swift
+//  AboutViewController.swift
 //  ChristmasOxSpirit
 //
 //  Created by jin fu on 2024/12/23.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class HomeViewController: UIViewController {
+class OxSpiritAboutViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -17,6 +17,10 @@ class HomeViewController: UIViewController {
     }
     
 
+    @IBAction func back(_ sender: UIButton) {
+        navigationController?.popViewController(animated: true)
+    }
+    
     /*
     // MARK: - Navigation
 

@@ -538,10 +538,10 @@
             </objects>
             <point key="canvasLocation" x="2704" y="734"/>
         </scene>
-        <!--Home View Controller-->
+        <!--Ox Spirit Home View Controller-->
         <scene sceneID="lT4-PI-8XV">
             <objects>
-                <viewController storyboardIdentifier="HomeViewController" id="Si6-Ed-cc5" customClass="HomeViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="HomeViewController" id="Si6-Ed-cc5" customClass="OxSpiritHomeViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="56g-Dx-2Se">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -999,10 +999,10 @@
             </objects>
             <point key="canvasLocation" x="768" y="-28"/>
         </scene>
-        <!--About View Controller-->
+        <!--Ox Spirit About View Controller-->
         <scene sceneID="NuB-wO-Hq3">
             <objects>
-                <viewController storyboardIdentifier="AboutViewController" modalPresentationStyle="fullScreen" hidesBottomBarWhenPushed="YES" id="cTe-tL-Dwa" customClass="AboutViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="AboutViewController" modalPresentationStyle="fullScreen" hidesBottomBarWhenPushed="YES" id="cTe-tL-Dwa" customClass="OxSpiritAboutViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="B1W-FE-cHi">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1030,13 +1030,21 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FKa-Za-rec">
                                 <rect key="frame" x="8" y="69" width="552" height="235"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">About Us:
+                                <string key="text">Get ready for a delightful holiday adventure with Christmas Ox Spirit! This festive hidden object game invites you to uncover magical gifts hidden in beautifully decorated Christmas scenes. Guided by the spirit of the mighty Ox, you’ll tackle increasingly challenging levels filled with surprises, holiday cheer, and hidden treasures. Whether you’re a beginner or a seasoned player, this game is perfect for spreading joy and experiencing the true spirit of Christmas.
 
-Welcome to Christmas Ox Spirit! At the heart of our game is a passion for spreading the holiday cheer. Created by a dedicated team of developers, ChrisChristmas Ox Spirit is designed to bring festive fun and excitement to players of all ages. Our mission is to provide a fun and engaging experience that captures the magic of Christmas while offering a fun challenge to keep you entertained throughout the holiday season.
+Features:
+	•	8 Festive Episodes: Embark on a journey through 8 exciting levels, each offering unique challenges and surprises.
+	•	Charming Hidden Object Gameplay: Explore intricate scenes to find hidden gifts and treasures in every corner.
+	•	Relaxing Holiday Atmosphere: Immerse yourself in cheerful visuals, delightful sounds, and heartwarming Christmas music.
+	•	Increasing Difficulty: As you progress, the puzzles become more intricate, perfect for players of all skill levels.
+	•	Instant Feedback: Get clear visual feedback to track your progress and uncover all the hidden surprises.
+	•	Unlockable Rewards: Complete levels to earn fun puzzles!
 
-Whether you're relaxing at home or enjoying some downtime during the holiday rush, ChrisChristmas Ox Spirit offers the perfect escape. Dive into the world of hidden gifts, beautiful Christmas backgrounds, and festive music as you embark on an adventure to find all the hidden treasures!
+How to Play:
 
-Our team is committed to delivering a fun, family-friendly game that celebrates the spirit of the season, with exciting levels and surprises along the way. Thank you for playing, and we hope ChrisChristmas Ox Spirit brings joy and excitement to your holiday season!</string>
+Join the Ox on this Christmas adventure! Search for hidden gifts in beautifully crafted Christmas paintings. Tap on matching images to reveal the treasures hidden in the background. Complete all 8 levels to discover the full magic of the season and unleash the strength of the Christmas Ox Spirit!
+
+This revision ties the Ox theme with the holiday charm while keeping the game engaging and festive. Let me know if you’d like further tweaks!</string>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="22"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -1607,10 +1615,10 @@ Our team is committed to delivering a fun, family-friendly game that celebrates 
             </objects>
             <point key="canvasLocation" x="1380" y="734"/>
         </scene>
-        <!--Setting View Controller-->
+        <!--Ox Spirit Setting View Controller-->
         <scene sceneID="onH-IA-QwD">
             <objects>
-                <viewController storyboardIdentifier="SettingViewController" id="94Q-KI-dMn" customClass="SettingViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="SettingViewController" id="94Q-KI-dMn" customClass="OxSpiritSettingViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="zgU-sn-gDW">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1788,10 +1796,10 @@ Our team is committed to delivering a fun, family-friendly game that celebrates 
             </objects>
             <point key="canvasLocation" x="745.77464788732402" y="733.58778625954199"/>
         </scene>
-        <!--FeedbackVC-->
+        <!--Ox Spirit Feedback View Controller-->
         <scene sceneID="uTM-l5-KZS">
             <objects>
-                <viewController storyboardIdentifier="FeedbackVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="GAI-1D-7LO" customClass="FeedbackVC" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="FeedbackVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="GAI-1D-7LO" customClass="OxSpiritFeedbackViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ti3-ID-0kK">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -2466,75 +2474,22 @@ Our team is committed to delivering a fun, family-friendly game that celebrates 
             </objects>
             <point key="canvasLocation" x="3357" y="-28"/>
         </scene>
-        <!--Privacy View Controller-->
+        <!--Ox Spirit Privacy View Controller-->
         <scene sceneID="4jW-7N-YQ4">
             <objects>
-                <viewController storyboardIdentifier="PrivacyViewController" modalPresentationStyle="fullScreen" hidesBottomBarWhenPushed="YES" id="JrO-Iu-7E0" customClass="PrivacyViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="OxSpiritPrivacyViewController" modalPresentationStyle="fullScreen" hidesBottomBarWhenPushed="YES" id="JrO-Iu-7E0" customClass="OxSpiritPrivacyViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="L1s-jB-LS4">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bg" translatesAutoresizingMaskIntoConstraints="NO" id="aew-mP-2jr">
+                            <wkWebView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CX0-xo-aJ0">
                                 <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
-                            </imageView>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="C5s-a0-elb">
-                                <rect key="frame" x="0.0" y="0.0" width="568" height="50"/>
-                                <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Privacy Policy " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="o0u-zA-uMg">
-                                        <rect key="frame" x="213.5" y="10.5" width="141" height="29"/>
-                                        <fontDescription key="fontDescription" name="Impact" family="Impact" pointSize="24"/>
-                                        <color key="textColor" systemColor="systemRedColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                </subviews>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstItem="o0u-zA-uMg" firstAttribute="centerY" secondItem="C5s-a0-elb" secondAttribute="centerY" id="X5L-2d-HTY"/>
-                                    <constraint firstItem="o0u-zA-uMg" firstAttribute="centerX" secondItem="C5s-a0-elb" secondAttribute="centerX" id="tKe-QS-5se"/>
-                                    <constraint firstAttribute="height" constant="50" id="wez-sT-byc"/>
-                                </constraints>
-                            </view>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="y35-jW-Hmx">
-                                <rect key="frame" x="8" y="69" width="552" height="235"/>
-                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">Privacy Policy for Christmas Ox Spirit
-
-At ChrisChristmas Ox Spirit, we prioritize your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app. By accessing or using ChrisChristmas Ox Spirit, you agree to the practices described in this policy.
-
-1. Information We Collect
-
-We may collect the following types of information when you use the app:
-
-Personal Information: We do not collect any personally identifiable information (PII) such as your name, address, email, or phone number through the game itself.
-Usage Data: We may collect non-personal information about your interactions with the app, including your gameplay progress, level completion, and usage statistics. This data helps us improve the user experience.
-2. Data Usage
-
-The data we collect is used for the following purposes:
-
-To improve the app’s performance and gameplay experience.
-To analyze user behavior and app usage to better understand how the app is used and to enhance future updates.
-To ensure a seamless and bug-free experience for our users.
-3. Third-Party Services
-
-ChrisChristmas Ox Spirit may include third-party services, such as ad networks or analytics tools, that collect information to deliver ads or analyze app usage. These third parties may collect anonymous data, and their privacy practices are governed by their own policies.
-
-Advertising: We may serve ads in the app, which may collect anonymous data for ad targeting purposes. These services are typically used to display relevant ads to you based on your app usage or interests.
-Analytics: We use third-party analytics services (such as Google Analytics) to analyze usage data and improve the app’s performance. These services may collect data about your device, app usage, and interactions.
-4. Data Security
-
-We take reasonable precautions to protect the data collected through the app. However, please note that no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
-
-5. Children's Privacy
-
-Our app is not intended for children under the age of 13. We do not knowingly collect or solicit personal information from children. If we learn that we have collected personal information from a child under 13, we will take steps to delete that information.
-
-6. Changes to this Privacy Policy
-
-We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. When we update the policy, we will post the revised version within the app and update the "Last Updated" date at the top of this document.</string>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="22"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <wkWebViewConfiguration key="configuration">
+                                    <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                                    <wkPreferences key="preferences"/>
+                                </wkWebViewConfiguration>
+                            </wkWebView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ldW-Ok-SkW">
                                 <rect key="frame" x="8" y="8" width="45" height="45"/>
                                 <constraints>
@@ -2548,30 +2503,35 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
                                     <action selector="back:" destination="JrO-Iu-7E0" eventType="touchUpInside" id="EAS-OU-Jr4"/>
                                 </connections>
                             </button>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="white" translatesAutoresizingMaskIntoConstraints="NO" id="GmC-vj-YG0">
+                                <rect key="frame" x="274" y="150" width="20" height="20"/>
+                            </activityIndicatorView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="wlf-D3-qPx"/>
                         <color key="backgroundColor" name="lbl"/>
                         <constraints>
-                            <constraint firstItem="C5s-a0-elb" firstAttribute="leading" secondItem="wlf-D3-qPx" secondAttribute="leading" id="4hz-kn-8UE"/>
-                            <constraint firstItem="wlf-D3-qPx" firstAttribute="trailing" secondItem="C5s-a0-elb" secondAttribute="trailing" id="629-j9-h2c"/>
-                            <constraint firstAttribute="bottom" secondItem="aew-mP-2jr" secondAttribute="bottom" id="6B4-Xd-fLb"/>
-                            <constraint firstItem="wlf-D3-qPx" firstAttribute="trailing" secondItem="y35-jW-Hmx" secondAttribute="trailing" constant="8" id="Ga2-Lt-6ki"/>
-                            <constraint firstItem="C5s-a0-elb" firstAttribute="top" secondItem="L1s-jB-LS4" secondAttribute="top" id="JN2-oD-jVv"/>
-                            <constraint firstItem="y35-jW-Hmx" firstAttribute="leading" secondItem="wlf-D3-qPx" secondAttribute="leading" constant="8" id="PxO-BG-13O"/>
-                            <constraint firstItem="aew-mP-2jr" firstAttribute="leading" secondItem="L1s-jB-LS4" secondAttribute="leading" id="SGW-Id-6nT"/>
+                            <constraint firstItem="GmC-vj-YG0" firstAttribute="centerY" secondItem="L1s-jB-LS4" secondAttribute="centerY" id="0VS-u2-S2W"/>
+                            <constraint firstItem="CX0-xo-aJ0" firstAttribute="leading" secondItem="L1s-jB-LS4" secondAttribute="leading" id="6ej-rC-uW4"/>
+                            <constraint firstAttribute="trailing" secondItem="CX0-xo-aJ0" secondAttribute="trailing" id="C1J-vQ-tSP"/>
                             <constraint firstItem="ldW-Ok-SkW" firstAttribute="leading" secondItem="wlf-D3-qPx" secondAttribute="leading" constant="8" id="Smv-Vc-7fL"/>
-                            <constraint firstItem="aew-mP-2jr" firstAttribute="top" secondItem="L1s-jB-LS4" secondAttribute="top" id="SxO-Q7-OKU"/>
-                            <constraint firstItem="y35-jW-Hmx" firstAttribute="top" secondItem="ldW-Ok-SkW" secondAttribute="bottom" constant="16" id="T3t-3d-Jfc"/>
-                            <constraint firstItem="wlf-D3-qPx" firstAttribute="bottom" secondItem="y35-jW-Hmx" secondAttribute="bottom" constant="16" id="UeG-fF-a6B"/>
+                            <constraint firstItem="GmC-vj-YG0" firstAttribute="centerX" secondItem="L1s-jB-LS4" secondAttribute="centerX" id="Zmu-ek-Ugo"/>
                             <constraint firstItem="ldW-Ok-SkW" firstAttribute="top" secondItem="wlf-D3-qPx" secondAttribute="top" constant="8" id="lbr-Sd-gmy"/>
-                            <constraint firstAttribute="trailing" secondItem="aew-mP-2jr" secondAttribute="trailing" id="wLs-OB-f7H"/>
+                            <constraint firstItem="CX0-xo-aJ0" firstAttribute="top" secondItem="L1s-jB-LS4" secondAttribute="top" id="yCy-Yq-0pZ"/>
+                            <constraint firstAttribute="bottom" secondItem="CX0-xo-aJ0" secondAttribute="bottom" id="zWq-Mu-H7Z"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="ToW-P0-4Ur"/>
+                    <connections>
+                        <outlet property="backButton" destination="ldW-Ok-SkW" id="SSb-5D-HoZ"/>
+                        <outlet property="bottomCos" destination="zWq-Mu-H7Z" id="jry-he-GfI"/>
+                        <outlet property="indicatorView" destination="GmC-vj-YG0" id="o0S-vb-tEB"/>
+                        <outlet property="topCos" destination="yCy-Yq-0pZ" id="Dti-op-k8U"/>
+                        <outlet property="webView" destination="CX0-xo-aJ0" id="1nF-Sq-Fes"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rLe-UP-O6T" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="768" y="1444"/>
+            <point key="canvasLocation" x="754" y="1764"/>
         </scene>
         <!--Find GiftsVC1-->
         <scene sceneID="xhE-E6-2rC">
@@ -2837,10 +2797,10 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
             </objects>
             <point key="canvasLocation" x="1392" y="-28"/>
         </scene>
-        <!--View Controller-->
+        <!--Ox Spirit Begin View Controller-->
         <scene sceneID="eVm-pb-BxA">
             <objects>
-                <viewController id="8qV-Qb-eDh" customClass="ViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="8qV-Qb-eDh" customClass="OxSpiritBeginViewController" customModule="ChristmasOxSpirit" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="UTu-pK-yb4">
                         <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -2900,6 +2860,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
                     <navigationItem key="navigationItem" id="rS8-G6-qLa"/>
                     <connections>
                         <outlet property="nameLbl" destination="VED-Zb-18q" id="q3Q-kO-BYj"/>
+                        <outlet property="startBtn" destination="n46-nR-Q0a" id="udp-HY-oP1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fqA-cm-2hz" sceneMemberID="firstResponder"/>

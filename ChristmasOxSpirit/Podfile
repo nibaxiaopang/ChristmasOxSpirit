@@ -6,5 +6,6 @@ target 'ChristmasOxSpirit' do
   use_frameworks!
 
   # Pods for ChristmasOxSpirit
-
+  pod 'Firebase/Messaging'
+  pod 'AppsFlyerFramework'
 end

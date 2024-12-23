@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "Level 1"; ObjectID = "1BP-lM-c9O"; */
+"1BP-lM-c9O.text" = "Level 1";
+
+/* Class = "UILabel"; text = "Levels"; ObjectID = "2Y8-s1-Vcg"; */
+"2Y8-s1-Vcg.text" = "Levels";
+
+/* Class = "UILabel"; text = "Rate us"; ObjectID = "2Zv-8G-SMj"; */
+"2Zv-8G-SMj.text" = "Rate us";
+
+/* Class = "UILabel"; text = "Level 5"; ObjectID = "3Xd-3J-Asg"; */
+"3Xd-3J-Asg.text" = "Level 5";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "49G-r8-cJm"; */
+"49G-r8-cJm.text" = "About us";
+
+/* Class = "UILabel"; text = "Level 6"; ObjectID = "4I9-Fg-nCN"; */
+"4I9-Fg-nCN.text" = "Level 6";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "8SN-S6-9vT"; */
+"8SN-S6-9vT.text" = "Setting";
+
+/* Class = "UILabel"; text = "Christmas Ox Spirit"; ObjectID = "9Y9-PQ-t8y"; */
+"9Y9-PQ-t8y.text" = "Christmas Ox Spirit";
+
+/* Class = "UILabel"; text = "Christmas Ox Spirit"; ObjectID = "AOU-vz-NTC"; */
+"AOU-vz-NTC.text" = "Christmas Ox Spirit";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "CSy-ek-ofq"; */
+"CSy-ek-ofq.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "CkZ-LU-WNT"; */
+"CkZ-LU-WNT.text" = "Feedback";
+
+/* Class = "UITextView"; text = "Get ready for a delightful holiday adventure with Christmas Ox Spirit! This festive hidden object game invites you to uncover magical gifts hidden in beautifully decorated Christmas scenes. Guided by the spirit of the mighty Ox, you’ll tackle increasingly challenging levels filled with surprises, holiday cheer, and hidden treasures. Whether you’re a beginner or a seasoned player, this game is perfect for spreading joy and experiencing the true spirit of Christmas.\n\nFeatures:\n\t•\t8 Festive Episodes: Embark on a journey through 8 exciting levels, each offering unique challenges and surprises.\n\t•\tCharming Hidden Object Gameplay: Explore intricate scenes to find hidden gifts and treasures in every corner.\n\t•\tRelaxing Holiday Atmosphere: Immerse yourself in cheerful visuals, delightful sounds, and heartwarming Christmas music.\n\t•\tIncreasing Difficulty: As you progress, the puzzles become more intricate, perfect for players of all skill levels.\n\t•\tInstant Feedback: Get clear visual feedback to track your progress and uncover all the hidden surprises.\n\t•\tUnlockable Rewards: Complete levels to earn fun puzzles!\n\nHow to Play:\n\nJoin the Ox on this Christmas adventure! Search for hidden gifts in beautifully crafted Christmas paintings. Tap on matching images to reveal the treasures hidden in the background. Complete all 8 levels to discover the full magic of the season and unleash the strength of the Christmas Ox Spirit!\n\nThis revision ties the Ox theme with the holiday charm while keeping the game engaging and festive. Let me know if you’d like further tweaks!"; ObjectID = "FKa-Za-rec"; */
+"FKa-Za-rec.text" = "Get ready for a delightful holiday adventure with Christmas Ox Spirit! This festive hidden object game invites you to uncover magical gifts hidden in beautifully decorated Christmas scenes. Guided by the spirit of the mighty Ox, you’ll tackle increasingly challenging levels filled with surprises, holiday cheer, and hidden treasures. Whether you’re a beginner or a seasoned player, this game is perfect for spreading joy and experiencing the true spirit of Christmas.\n\nFeatures:\n\t•\t8 Festive Episodes: Embark on a journey through 8 exciting levels, each offering unique challenges and surprises.\n\t•\tCharming Hidden Object Gameplay: Explore intricate scenes to find hidden gifts and treasures in every corner.\n\t•\tRelaxing Holiday Atmosphere: Immerse yourself in cheerful visuals, delightful sounds, and heartwarming Christmas music.\n\t•\tIncreasing Difficulty: As you progress, the puzzles become more intricate, perfect for players of all skill levels.\n\t•\tInstant Feedback: Get clear visual feedback to track your progress and uncover all the hidden surprises.\n\t•\tUnlockable Rewards: Complete levels to earn fun puzzles!\n\nHow to Play:\n\nJoin the Ox on this Christmas adventure! Search for hidden gifts in beautifully crafted Christmas paintings. Tap on matching images to reveal the treasures hidden in the background. Complete all 8 levels to discover the full magic of the season and unleash the strength of the Christmas Ox Spirit!\n\nThis revision ties the Ox theme with the holiday charm while keeping the game engaging and festive. Let me know if you’d like further tweaks!";
+
+/* Class = "UILabel"; text = "Christmas Ox Spirit"; ObjectID = "KBD-C3-YOo"; */
+"KBD-C3-YOo.text" = "Christmas Ox Spirit";
+
+/* Class = "UILabel"; text = "Level 3"; ObjectID = "NzM-tB-rti"; */
+"NzM-tB-rti.text" = "Level 3";
+
+/* Class = "UILabel"; text = "Christmas Ox Spirit"; ObjectID = "Uhm-XG-BIF"; */
+"Uhm-XG-BIF.text" = "Christmas Ox Spirit";
+
+/* Class = "UILabel"; text = "Christmas Ox Spirit"; ObjectID = "VED-Zb-18q"; */
+"VED-Zb-18q.text" = "Christmas Ox Spirit";
+
+/* Class = "UILabel"; text = "Level 4"; ObjectID = "VbE-cc-f86"; */
+"VbE-cc-f86.text" = "Level 4";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "aXI-9N-6Kz"; */
+"aXI-9N-6Kz.text" = "Privacy";
+
+/* Class = "UILabel"; text = "Christmas Ox Spirit"; ObjectID = "bDn-gU-F4I"; */
+"bDn-gU-F4I.text" = "Christmas Ox Spirit";
+
+/* Class = "UILabel"; text = "Level 2"; ObjectID = "eLy-X3-uZQ"; */
+"eLy-X3-uZQ.text" = "Level 2";
+
+/* Class = "UILabel"; text = "Christmas Ox Spirit"; ObjectID = "hxN-pl-kQe"; */
+"hxN-pl-kQe.text" = "Christmas Ox Spirit";
+
+/* Class = "UILabel"; text = "Level 8"; ObjectID = "j62-E8-2jB"; */
+"j62-E8-2jB.text" = "Level 8";
+
+/* Class = "UILabel"; text = "Christmas Ox Spirit"; ObjectID = "jTI-pL-5Rl"; */
+"jTI-pL-5Rl.text" = "Christmas Ox Spirit";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "n46-nR-Q0a"; */
+"n46-nR-Q0a.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Christmas Ox Spirit"; ObjectID = "nR3-qb-Nec"; */
+"nR3-qb-Nec.text" = "Christmas Ox Spirit";
+
+/* Class = "UILabel"; text = "Privacy Policy "; ObjectID = "o0u-zA-uMg"; */
+"o0u-zA-uMg.text" = "Privacy Policy ";
+
+/* Class = "UITextView"; text = "Privacy Policy for Christmas Ox Spirit\n\nAt ChrisChristmas Ox Spirit, we prioritize your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app. By accessing or using ChrisChristmas Ox Spirit, you agree to the practices described in this policy.\n\n1. Information We Collect\n\nWe may collect the following types of information when you use the app:\n\nPersonal Information: We do not collect any personally identifiable information (PII) such as your name, address, email, or phone number through the game itself.\nUsage Data: We may collect non-personal information about your interactions with the app, including your gameplay progress, level completion, and usage statistics. This data helps us improve the user experience.\n2. Data Usage\n\nThe data we collect is used for the following purposes:\n\nTo improve the app’s performance and gameplay experience.\nTo analyze user behavior and app usage to better understand how the app is used and to enhance future updates.\nTo ensure a seamless and bug-free experience for our users.\n3. Third-Party Services\n\nChrisChristmas Ox Spirit may include third-party services, such as ad networks or analytics tools, that collect information to deliver ads or analyze app usage. These third parties may collect anonymous data, and their privacy practices are governed by their own policies.\n\nAdvertising: We may serve ads in the app, which may collect anonymous data for ad targeting purposes. These services are typically used to display relevant ads to you based on your app usage or interests.\nAnalytics: We use third-party analytics services (such as Google Analytics) to analyze usage data and improve the app’s performance. These services may collect data about your device, app usage, and interactions.\n4. Data Security\n\nWe take reasonable precautions to protect the data collected through the app. However, please note that no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.\n\n5. Children's Privacy\n\nOur app is not intended for children under the age of 13. We do not knowingly collect or solicit personal information from children. If we learn that we have collected personal information from a child under 13, we will take steps to delete that information.\n\n6. Changes to this Privacy Policy\n\nWe may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. When we update the policy, we will post the revised version within the app and update the \"Last Updated\" date at the top of this document."; ObjectID = "y35-jW-Hmx"; */
+"y35-jW-Hmx.text" = "Privacy Policy for Christmas Ox Spirit\n\nAt ChrisChristmas Ox Spirit, we prioritize your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and safeguard your information when you use our app. By accessing or using ChrisChristmas Ox Spirit, you agree to the practices described in this policy.\n\n1. Information We Collect\n\nWe may collect the following types of information when you use the app:\n\nPersonal Information: We do not collect any personally identifiable information (PII) such as your name, address, email, or phone number through the game itself.\nUsage Data: We may collect non-personal information about your interactions with the app, including your gameplay progress, level completion, and usage statistics. This data helps us improve the user experience.\n2. Data Usage\n\nThe data we collect is used for the following purposes:\n\nTo improve the app’s performance and gameplay experience.\nTo analyze user behavior and app usage to better understand how the app is used and to enhance future updates.\nTo ensure a seamless and bug-free experience for our users.\n3. Third-Party Services\n\nChrisChristmas Ox Spirit may include third-party services, such as ad networks or analytics tools, that collect information to deliver ads or analyze app usage. These third parties may collect anonymous data, and their privacy practices are governed by their own policies.\n\nAdvertising: We may serve ads in the app, which may collect anonymous data for ad targeting purposes. These services are typically used to display relevant ads to you based on your app usage or interests.\nAnalytics: We use third-party analytics services (such as Google Analytics) to analyze usage data and improve the app’s performance. These services may collect data about your device, app usage, and interactions.\n4. Data Security\n\nWe take reasonable precautions to protect the data collected through the app. However, please note that no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.\n\n5. Children's Privacy\n\nOur app is not intended for children under the age of 13. We do not knowingly collect or solicit personal information from children. If we learn that we have collected personal information from a child under 13, we will take steps to delete that information.\n\n6. Changes to this Privacy Policy\n\nWe may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. When we update the policy, we will post the revised version within the app and update the \"Last Updated\" date at the top of this document.";
+
+/* Class = "UILabel"; text = "Level 7"; ObjectID = "yui-K5-jlV"; */
+"yui-K5-jlV.text" = "Level 7";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "yyW-26-YSh"; */
+"yyW-26-YSh.text" = "About us";
